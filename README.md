@@ -1,3 +1,3 @@
-lab01-simplealgos-Iri25
+Artificial Intelligence
 
 Solve problems using different methods in terms of complexity (temporal and spatial).
