@@ -37,21 +37,14 @@ The list of problems is:
 
 9. Considering a matrix with n x m integer elements and a list of pairs consisting of the coordinates of 2 cells in the matrix ((p,q) and (r,s)), to calculate the sum of the elements in the sub-matrices identified by each pair.
     
-``For example, for the matrix
-[[0, 2, 5, 4, 1],``
-[4, 8, 2, 3, 7],
+`For example, for the matrix [[0, 2, 5, 4, 1], [4, 8, 2, 3, 7], [6, 3, 4, 6, 2], [7, 3, 1, 8, 3], [1, 5, 7, 9, 4]] and the list of pairs ((1, 1) and (3, 3)), ((2, 2) and (4, 4)), the sum of the elements in the first sub-matrix is 38, and the sum of the elements in the 2nd sub-matrix is 44.`
 
-[6, 3, 4, 6, 2],
-[7, 3, 1, 8, 3],
-[1, 5, 7, 9, 4]]
-and the list of pairs ((1, 1) and (3, 3)), ((2, 2) and (4, 4)), the sum of the elements in the first sub-matrix is 38, and the sum of the elements in the 2nd sub-matrix is 44.`
-13. Considering a matrix with n x m binary elements (0 or 1) sorted ascending on the lines, identify the index of the line containing the most elements of 1.
-`For example. in the matrix
-[[0,0,0,1,1],
-   [0,1,1,1,1],
-   [0,0,1,1,1]]
-the second line contains the most elements 1.`
-14. Considering a matrix with n x m binary elements (0 or 1), replace with 1 all occurrences of elements equal to 0 that are completely surrounded by 1.
+10. Considering a matrix with n x m binary elements (0 or 1) sorted ascending on the lines, identify the index of the line containing the most elements of 1.
+    
+`For example. in the matrix [[0,0,0,1,1], [0,1,1,1,1], [0,0,1,1,1]] the second line contains the most elements 1.`
+
+11. Considering a matrix with n x m binary elements (0 or 1), replace with 1 all occurrences of elements equal to 0 that are completely surrounded by 1.
+    
 `For example. matrix
 [[1,1,1,1,0,0,1,1,0,1],
   [1,0,0,1,1,0,1,1,1,1],
