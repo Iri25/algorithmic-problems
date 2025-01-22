@@ -2,6 +2,7 @@
 
 Python project that contains the efficient solution of some algorithmic problems in terms of complexity (temporal and spatial).
 
+##
 The list of problems is:
 1. Determine the last (alphabetical) word that can appear in a text containing multiple words separated by " " (space).
 
